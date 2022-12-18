@@ -1,0 +1,17 @@
+Item name: Steak | ID : 0 | Type : 3 | Cost : 5.00 | Price : 12.00 | Stock : 5
+Item name: Peshi | ID : 1 | Type : 1 | Cost : 0.50 | Price : 3.00 | Stock : 20
+Item name: Ice-cream | ID : 2 | Type : 4 | Cost : 1.00 | Price : 5.00 | Stock : 40
+Item name: Mineral-Water | ID : 3 | Type : 1 | Cost : 0.80 | Price : 2.50 | Stock : 37
+Item name: Spalking-Water | ID : 4 | Type : 1 | Cost : 1.00 | Price : 3.00 | Stock : 27
+Item name: Pizza | ID : 5 | Type : 3 | Cost : 4.00 | Price : 15.00 | Stock : 3
+Item name: Spaghetti | ID : 6 | Type : 3 | Cost : 4.00 | Price : 10.00 | Stock : 8
+Item name: Omelet | ID : 7 | Type : 3 | Cost : 2.00 | Price : 8.00 | Stock : 16
+Item name: Jelly | ID : 8 | Type : 4 | Cost : 0.50 | Price : 5.00 | Stock : 25
+Item name: Panacotta | ID : 9 | Type : 4 | Cost : 1.50 | Price : 8.00 | Stock : 35
+Item name: Macaron | ID : 10 | Type : 4 | Cost : 1.00 | Price : 6.00 | Stock : 30
+Item name: Hashbrown | ID : 11 | Type : 2 | Cost : 1.50 | Price : 6.00 | Stock : 10
+Item name: French-Fried | ID : 12 | Type : 2 | Cost : 1.20 | Price : 5.50 | Stock : 20
+Item name: Nugget | ID : 13 | Type : 2 | Cost : 2.00 | Price : 8.00 | Stock : 15
+Item name: Sausage | ID : 14 | Type : 2 | Cost : 1.00 | Price : 5.00 | Stock : 25
+Item name: M150 | ID : 15 | Type : 1 | Cost : 1.00 | Price : 3.00 | Stock : 1
+Item name: Bananana | ID : 16 | Type : 4 | Cost : 1.00 | Price : 4.00 | Stock : 15
